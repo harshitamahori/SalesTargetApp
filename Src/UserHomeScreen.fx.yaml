@@ -13,12 +13,11 @@ UserHomeScreen As screen:
         ZIndex: =1
 
     Button4 As button:
-        Height: =70
+        Height: =71
         OnSelect: =Navigate('Personal Targets Screen',ScreenTransition.Fade);
-        Size: =24
+        Size: =25
         Text: |-
-            ="My Targets
-            "
+            ="My Targets"
         Width: =280
         X: =168
         Y: =572
