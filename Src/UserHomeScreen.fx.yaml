@@ -6,10 +6,9 @@ UserHomeScreen As screen:
         Fill: =RGBA(0, 18, 107, 1)
         FontWeight: =FontWeight.Semibold
         Height: =70
-        Size: =21
+        Size: =25
         Text: |-
-            ="User Home Screen
-            "
+            ="User Home Screen"
         Width: =640
         ZIndex: =1
 
